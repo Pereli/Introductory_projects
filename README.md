@@ -1,7 +1,1 @@
-The Bridge:
-
-- Intensive, hands-on learning experience focused on applied data science concepts and techniques
-- Covering a range of topics including machine learning, natural language processing, data visualization, and more
-- Led by industry experts with real-world experience in the field
-- Practical projects and case studies to apply skills and knowledge to real-world situations
-- Graduates leave with a strong foundation in data science and the skills to start their careers in the field.
+This repository contains a selection of projects completed during a data science bootcamp. The bootcamp provided an intensive, hands-on learning experience focused on applied data science concepts and techniques. The curriculum covered a range of topics including machine learning, natural language processing, and data visualization. The projects in this repository are a representation of the skills and knowledge gained during the bootcamp and demonstrate the ability to apply these concepts to real-world situations.
