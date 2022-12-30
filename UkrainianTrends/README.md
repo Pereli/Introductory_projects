@@ -1,4 +1,4 @@
 This project involved conducting an exploratory data analysis on Ukrainian search trends on Google. 
-- Through the analysis, we were able to identify key themes and patterns in the data, and draw conclusions about the search behavior of Ukrainian users. 
+- Through the analysis, I was able to identify key themes and patterns in the data, and draw conclusions about the search behavior of Ukrainian users. 
 - The project required skills in data cleaning and manipulation, visualization, and statistical analysis, as well as an understanding of how to effectively communicate findings through written and visual means. 
 - The end result was a detailed report on the insights gained from the analysis, which could be used to inform marketing and strategy decisions for businesses targeting the Ukrainian market.
